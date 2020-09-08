@@ -3,11 +3,11 @@
 Here I collect examples of documentation that I liked in some way.
 
 I divided all the examples by type:
-  * API docs
-  * Help and manual
-  * Glossary
-  * FAQ
-  * Onbording
+  * [API docs](api-docs.md)
+  * [Help and manual](help-and-manual.md)
+  * [Glossary](glossary.md)
+  * [FAQ](faq.md)
+  * [Onbording](onbording.md)
   
 
 And by domain:
