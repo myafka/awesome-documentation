@@ -11,7 +11,7 @@ I divided all the examples by type:
   
 
 And by domain:
- * Technology
+ * IT & Technology
  * Fintech & Banking
  * Logistics
  * Insurance
