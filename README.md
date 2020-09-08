@@ -1,4 +1,4 @@
-# The-Best-Documentation
+# The Awesome Documentation
 
 Here I collect examples of documentation that I liked in some way.
 
