@@ -12,7 +12,7 @@
 
 ## Monzo
 
-![](add picture link)
+![](/images/monzo-api.png)
 
 Link: https://docs.monzo.com/#introduction
 
@@ -24,7 +24,7 @@ Why like it:
 
 ## Slack
 
-![](add picture link)
+![](/images/slack-api.png)
 
 Link: https://api.slack.com/apis
 
@@ -36,7 +36,7 @@ Why like it:
 
 ## Spotify
 
-![](add picture link)
+![](/images/spotify-api.png)
 
 Link: https://developer.spotify.com/documentation/web-api/reference-beta/
 
