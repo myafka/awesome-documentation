@@ -1,4 +1,4 @@
-# Api reference
+# Api docs
 
 # Ru
 
