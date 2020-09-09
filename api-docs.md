@@ -1,11 +1,11 @@
 # Api docs
 
-* [Monzo](api-reference.md#monzo)
-* [Slack](api-reference.md#slack)
-* [Spotify](api-reference.md#spotify)
-* [Stripe](api-reference.md#stripe)
-* [Mailchimp](api-reference.md#stripe)
-* [Shopify](api-reference.md#stripe)
+* [Monzo](#monzo)
+* [Slack](#slack)
+* [Spotify](#spotify)
+* [Stripe](#stripe)
+* [Mailchimp](#stripe)
+* [Shopify](#stripe)
 
 ## Monzo
 
@@ -15,7 +15,7 @@ Link: https://docs.monzo.com/#introduction
 
 Domen: Fintech & Banking
 
-Tools: Slate
+Tools: Github based, Slate
 
 Why like it:
 
@@ -51,7 +51,7 @@ Link: https://stripe.com/docs/api
 
 Domen: Fintech & Banking
 
-Tools:
+Tools: Сontentful
 
 Why like it:  The documentation changes when you change the programming language. 
 Awesome ready code sample. 
@@ -64,7 +64,7 @@ Link: https://mailchimp.com/developer/api/marketing/root/list-api-root-resources
 
 Domen: Media
 
-Tools:
+Tools: Github based
 
 Why like it:  Use a collapsed view for parameter descriptions. 
 
