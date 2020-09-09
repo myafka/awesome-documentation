@@ -2,7 +2,7 @@
 
 ## Miro
 
-![](add picture link)
+![](/images/miro-help.png)
 
 Link: https://help.miro.com/hc/en-us/categories/360001420434-Using-Miro
 
@@ -17,7 +17,7 @@ the text is easy to understand
 ----
 ## Template
 
-![](add picture link)
+![](/images/someword-help.png)
 
 Link: (add link)
 
