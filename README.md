@@ -15,7 +15,7 @@ I divided all the examples by type:
   * [Help and manual](help-and-manual.md)
   * [Glossary](glossary.md)
   * [Best practise and cases](best-practise-and-cases.md)
-  * [Onbording](onbording.md)
+  * [Onboarding](onboarding.md)
   * [Interface overview](interface-overview.md)
   
 
