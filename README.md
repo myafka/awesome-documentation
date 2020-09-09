@@ -6,7 +6,7 @@ I divided all the examples by type:
   * [API docs](api-docs.md)
   * [Help and manual](help-and-manual.md)
   * [Glossary](glossary.md)
-  * [FAQ](faq.md)
+  * [Best practise and cases](best-practise-and-cases.md)
   * [Onbording](onbording.md)
   * [Interface overview](interface-overview.md)
   
