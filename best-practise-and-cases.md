@@ -1,5 +1,9 @@
 # Best practise and cases
 
+* [Asana](best-practise-and-cases.md#asana)
+* [Figma](best-practise-and-cases.md#figma)
+* [Miro](best-practise-and-cases.md#miro)
+
 ## Asana
 
 ![](/images/asana-cases.png)
