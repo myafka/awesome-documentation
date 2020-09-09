@@ -1,5 +1,9 @@
 # The Awesome Documentation
 
+![GitHub repo size](https://img.shields.io/github/repo-size/myafka/awesome-documentation)
+![GitHub last commit](https://img.shields.io/github/last-commit/myafka/awesome-documentation)
+![GitHub stars](https://img.shields.io/github/stars/myafka/awesome-documentation?style=social)
+
 Here I collect examples of documentation that I liked in some way.
 
 I divided all the examples by type:
