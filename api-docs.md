@@ -1,11 +1,5 @@
 # Api docs
 
-# Ru
-
-
-
-# En
-
 * [Monzo](api-reference.md#monzo)
 * [Slack](api-reference.md#slack)
 * [Spotify](api-reference.md#spotify)
