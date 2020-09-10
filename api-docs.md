@@ -6,6 +6,7 @@
 * [Stripe](#stripe)
 * [Mailchimp](#stripe)
 * [Shopify](#stripe)
+* [Snyk](#snyk)
 
 ## Monzo
 
@@ -72,13 +73,25 @@ Why like it:  Use a collapsed view for parameter descriptions.
 
 ![](/images/shopify-api.png)
 
-Link: (https://shopify.dev/docs/marketing-activities)
+Link: https://shopify.dev/docs/marketing-activities
 
 Domen: Retail & E-commerce 
 
 Tools:
 
 Why like it: Clear sections Getting started.
+
+## Snyk
+
+![](/images/snyk-api.png)
+
+Link: https://snyk.docs.apiary.io/
+
+Domen: IT & Technology
+
+Tools: [Apiary](https://apiary.io/how-apiary-works)
+
+Why like it: Tools stack, console.
 
 ----
 ## Template
