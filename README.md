@@ -18,12 +18,3 @@ I divided all the examples by type:
   * [Onboarding](onboarding.md)
   * [Interface overview](interface-overview.md)
   
-
-... and by domain:
-
- * IT & Technology
- * Fintech & Banking
- * Retail & E-commerce
- * Media
- * Other
-
