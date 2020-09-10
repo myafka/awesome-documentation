@@ -49,7 +49,7 @@ Link: https://codefresh.io/docs/docs/getting-started/create-a-codefresh-account/
 
 Domen: IT & Technology
 
-Tools:
+Tools: Jekyll, WordPress
 
 Why like it: Navigation, Section Learn by Example, diagrams (my [favorite](https://codefresh.io/docs/docs/administration/installation-security/#topology-diagram)).
 
