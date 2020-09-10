@@ -6,7 +6,7 @@
 
 ![](/images/justinmind-onboarding.png)
 
-Link: in app
+Link: built into the app
 
 Domen: IT & Technology
 
