@@ -8,6 +8,7 @@
 * [Shopify](#stripe)
 * [Snyk](#snyk)
 * [Revolut](#revolut)
+* [Svelte](#svelte)
 
 ## Monzo
 
@@ -106,6 +107,17 @@ Tools: Github based
 
 Why like it: Design and structure, built-in console, links to git
 
+## Svelte
+
+![](/images/svelte-api.png)
+
+Link: https://svelte.dev/tutorial/basics
+
+Domen: IT & Technology
+
+Tools: Github based, markdown
+
+Why like it: Interactive tutorial
 
 ----
 ## Template
